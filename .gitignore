@@ -5,7 +5,6 @@
 /logs/
 /target/
 
-/backend/
-
+/backend/src/main/java/nick/TokenUtil.java
 
 /common/target
