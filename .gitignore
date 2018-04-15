@@ -1,0 +1,11 @@
+
+# misc
+.DS_Store
+/.idea/
+/logs/
+/target/
+
+/backend/
+
+
+/common/target
